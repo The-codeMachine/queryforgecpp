@@ -28,6 +28,6 @@ cd QueryForge
 mkdir build && cd build
 cmake ..
 make
-
+```
 Acknowledgments
 If you find this project useful, a simple mention or recognition would be greatly appreciated, but it's not required. Thank you for using QueryForge++!
