@@ -24,7 +24,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/The-codeMachine/queryforgecpp
-cd QueryForge
+cd queryforgecpp
 mkdir build && cd build
 cmake ..
 make
