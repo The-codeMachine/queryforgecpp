@@ -23,7 +23,7 @@ A modern, efficient C++ MySQL query connection pool built on the official MySQL 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/QueryForge.git
+git clone https://github.com/The-codeMachine/queryforgecpp
 cd QueryForge
 mkdir build && cd build
 cmake ..
